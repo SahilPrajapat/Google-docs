@@ -45,7 +45,6 @@ function Header() {
                src={session[0]?.user?.image}
                alt=""
                />
-               {console.log(session)}
         </header>
     )
 }
